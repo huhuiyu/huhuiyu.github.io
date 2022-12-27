@@ -9,7 +9,7 @@
 
 <link rel="stylesheet" href="https://huhuiyu.top/css/github.css">
 <section class="img-flex-box logos" >
-  <img  src="https://media.huhuiyu.top/qrcode/huhuiyu_wechat.jpg" alt="">
-  <img src="https://media.huhuiyu.top/qrcode/huhuiyu_qq.jpg" alt="">
-  <img  src="https://media.huhuiyu.top/qrcode/huhuiyu.top.png" alt="">
+  <section><img  src="https://media.huhuiyu.top/qrcode/huhuiyu_wechat.jpg" alt=""></section>
+  <section><img src="https://media.huhuiyu.top/qrcode/huhuiyu_qq.jpg" alt=""></section>
+  <section><img  src="https://media.huhuiyu.top/qrcode/huhuiyu.top.png" alt=""></section>
 </section>
