@@ -6,10 +6,9 @@
   - [教程文档首页](https://document.huhuiyu.top)
 
 - 联系信息
-<!-- style="display: flex;flex-wrap: wrap;justify-content: center;" -->
+
 <link rel="stylesheet" href="https://huhuiyu.top/css/github.css">
-<section class="img-flex-box" >
-  <!-- style="display :block;max-width: min(50vw,400px);margin: 1rem;" -->
+<section class="img-flex-box logos" >
   <img  src="https://media.huhuiyu.top/qrcode/huhuiyu_wechat.jpg" alt="">
   <img src="https://media.huhuiyu.top/qrcode/huhuiyu_qq.jpg" alt="">
   <img  src="https://media.huhuiyu.top/qrcode/huhuiyu.top.png" alt="">
